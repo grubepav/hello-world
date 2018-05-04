@@ -1,0 +1,3 @@
+[submodule "3rd/submodul"]
+	path = 3rd/submodul
+	url = https://github.com/grubepav/submodul.git
